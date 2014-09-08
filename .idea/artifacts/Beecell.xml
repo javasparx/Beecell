@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Beecell">
+    <output-path>$PROJECT_DIR$/out/artifacts/Beecell</output-path>
+    <root id="archive" name="Beecell.jar">
+      <element id="archive" name="Beecell.jar">
+        <element id="module-output" name="Beecell" />
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
